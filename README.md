@@ -3,7 +3,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,bootstrap,js,dotnet,figma,git,github,java,mysql,supabase,netlify,react,postman,unity" />
 
-## Here are some of my statistics 🚀
+
 ![victoriababala's github stats](https://github-readme-stats.vercel.app/api?username=victoriababala&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoriababala&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriababala&theme=tokyonight&layout=compact)
