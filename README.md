@@ -1,7 +1,7 @@
 <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,bootstrap,js,dotnet,figma,git,github,java,mysql,supabase,netlify,react,postman,unity" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,py,html,css,bootstrap,tailwind,js,ts,php,dotnet,figma,git,github,mysql,supabase,netlify,react,nextjs,postman,unity" />
 
 
 ![victoriababala's github stats](https://github-readme-stats.vercel.app/api?username=victoriababala&show_icons=true&theme=tokyonight)
