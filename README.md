@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,bash,java,py,html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,graphql,php,laravel,dotnet,figma,git,github,mysql,sequelize,postgres,mongodb,supabase,netlify,postman,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,tensorflow,html,css,bootstrap,tailwind,js,ts,react,vite,nextjs,nodejs,express,graphql,php,laravel,dotnet,figma,bash,git,github,gitlab,mysql,sequelize,postgres,mongodb,supabase,netlify,postman,unity,aws,dynamodb" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
